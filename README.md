@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is gillian
+My name is Gillian Saperstein, and I am currently a senior at Washington University in St. Louis, majoring in Biomedical Engineering and minoring in Computer Science.
 
 <!--
 **gilliansaperstein/gilliansaperstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
